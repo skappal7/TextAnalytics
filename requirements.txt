@@ -6,3 +6,4 @@ wordcloud
 matplotlib
 networkx
 nltk
+python-dotenv
