@@ -15,13 +15,13 @@ Welcome to the Text Analytics App! This application allows you to perform compre
 1. **Clone the repository**:
 
     ```shell
-    git clone https://github.com/yourusername/text-analytics-app.git
+    git clone https://github.com/skappal7/TextAnalytics.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```shell
-    cd text-analytics-app
+    cd TextAnalytics
     ```
 
 3. **Create a virtual environment (optional but recommended)**:
