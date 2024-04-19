@@ -42,7 +42,7 @@ Welcome to the Text Analytics App! This application allows you to perform compre
 1. **Run the app**:
 
     ```shell
-    streamlit run app.py
+    streamlit run ta.py
     ```
 
 2. **Upload a CSV or text file**:
